@@ -1,0 +1,15 @@
+{
+  "name": "js-ts-roadmap",
+  "version": "1.0.0",
+  "description": "JavaScript and TypeScript learning roadmap with exercises",
+  "type": "module",
+  "scripts": {
+    "run:js": "node",
+    "run:ts": "tsx"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0",
+    "tsx": "^4.7.0",
+    "@types/node": "^20.11.0"
+  }
+}
