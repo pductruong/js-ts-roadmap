@@ -82,6 +82,12 @@ npx tsx path/to/file.ts
 | 5.3 | Tagged Templates & Well-known Symbols |
 | 5.4 | Worker Threads & Concurrency |
 | 5.5 | Modern Language Features (WeakRef, Error cause, logical assignment, structuredClone, advanced regex) |
+| 5.6 | Unicode & Strings (UTF-16, surrogate pairs, code points, grapheme clusters, Intl API, normalization) |
+| 5.7 | Numeric Precision (IEEE 754, NaN/Infinity/-0, epsilon, BigInt, money arithmetic) |
+| 5.8 | Module System Internals (CJS require, ESM live bindings, circular imports, dynamic import, import.meta) |
+| 5.9 | Async & Generator Internals (generator protocol, async desugaring, microtask/macrotask, Promise internals) |
+| 5.10 | Runtime & Environment (Realms, eval/new Function, Error.stack, TCO, trampolining) |
+| 5.11 | Language Spec Internals (Abstract Equality, Abstract Operations, Symbol.toPrimitive, [[Get]]/[[Set]], prototype chain) |
 
 ## Phase 6 — TypeScript Advanced (Senior)
 | Section | Topic |
@@ -95,3 +101,6 @@ npx tsx path/to/file.ts
 | 6.7 | TypeScript Compiler API |
 | 6.8 | Project References & Module Resolution |
 | 6.9 | Custom ESLint Rules with Type Info |
+| 6.10 | Control Flow Analysis & Type Widening (CFA narrowing, exhaustive never, widening, as const, contextual typing) |
+| 6.11 | Type System Features (declaration merging, mapped type modifiers, ambient modules, global augmentation, namespaces) |
+| 6.12 | Advanced Inference (bivariant methods, UnionToIntersection, NoInfer<T>, template literal inference, satisfies) |

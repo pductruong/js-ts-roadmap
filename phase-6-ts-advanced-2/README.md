@@ -15,3 +15,6 @@ Deep type system knowledge every senior TypeScript engineer should master.
 | [6.7](./6.7-compiler-api/) | TypeScript Compiler API |
 | [6.8](./6.8-project-references/) | Project References & Module Resolution |
 | [6.9](./6.9-custom-eslint-rules/) | Custom ESLint Rules with Type Info |
+| [6.10](./6.10-control-flow-analysis/) | Control Flow Analysis & Type Widening |
+| [6.11](./6.11-type-system-features/) | Type System Features |
+| [6.12](./6.12-advanced-inference/) | Advanced Inference |
